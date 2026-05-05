@@ -4,5 +4,6 @@
 ## Git commands / Git commands nomenclature
 ![Git Commands](screenshots/commands.png)
 
+![Git Commands](screenshots/nomenclature.png)
 ## Git Merge and Conflicts
 ![Git Merge and Conflicts](screenshots/mergeandconflicts.png)
