@@ -10,3 +10,9 @@
 
 ## Git config email and user
 ![Git Config email and user](screenshots/config.png)
+
+## Before Git pull
+![Before Git pull](screenshots/beforepull.png)
+
+## After Git pull
+![After Git pull](screenshots/afterpull.png)
