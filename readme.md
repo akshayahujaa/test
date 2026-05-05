@@ -7,3 +7,6 @@
 ![Git Commands](screenshots/nomenclature.png)
 ## Git Merge and Conflicts
 ![Git Merge and Conflicts](screenshots/mergeandconflicts.png)
+
+## Git config email and user
+![Git Config email and user](screenshots/config.png)
